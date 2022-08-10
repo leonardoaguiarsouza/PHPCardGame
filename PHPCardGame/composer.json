@@ -1,0 +1,11 @@
+{
+    "name": "leonardo.aguiar/card-game",
+    "autoload": {
+        "psr-4": {
+            "CardGame\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
